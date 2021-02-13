@@ -53,3 +53,7 @@ if question4 == ans4:
     print("Your Updated Score Is: ", score)
 else:
     print("Wrong, the correct answer is: ", ans4)
+ 
+print("Thank You For Playing! You Scored: ", score)
+print("Credits:","/n", "Arnav Naik")
+print("Check Out My GitHub: https://code643/")
